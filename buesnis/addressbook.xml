@@ -1,0 +1,20 @@
+<contacts>
+	<contact>
+		<name>Ahmad</name>
+		<last_name>Ahmadi</last_name>
+		<telephone>+93786565656</telephone>
+		<email>Ahmadi@hotmail.com</email>
+	</contact>
+	<contact>
+		<name>Sabria</name>
+		<last_name>Husaini</last_name>
+		<telephone>07988888978</telephone>
+		<email>Husaini@gmail.com</email>
+	</contact>
+	<contact>
+		<name>kamal Hussain</name>
+		<last_name> Alizada</last_name>
+		<telephone>0770898989898</telephone>
+		<email>alizada@yahoo.com</email>
+	</contact>
+</contacts>
