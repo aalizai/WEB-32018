@@ -4,4 +4,5 @@
 //$user->index();
 //$user->print_all();
 echo strrev("myname");
+phpinfo();
 ?>

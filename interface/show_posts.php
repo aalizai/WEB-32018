@@ -5,8 +5,8 @@
 	</head>
 	<body>
 		<?php 
-		include_once"../data/class.post_curd.php";
-		include'layout/header.php';
+	include_once"../data/class.post_curd.php";
+//		include'layout/header.php';
 		$obj= new post_curd();
 		$posts =$obj->list_posts();  
 		
@@ -49,7 +49,7 @@
                             <?php }
                             
                             
-                            include 'layout/footer.php';
+                        //    include 'layout/footer.php';
                             ?>
 	</body	
 </html>
